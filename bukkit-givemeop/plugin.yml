@@ -1,0 +1,3 @@
+name: HelloWorld
+main: net.bryzak.bukkit.HelloWorld
+version: 1.0
